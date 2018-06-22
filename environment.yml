@@ -1,0 +1,9 @@
+name: rnnlm  # overridden at install, so this is for your use with conda env
+dependencies:
+  - flask
+  - theanolm
+  - mila-udem/label/pre
+  - theano
+  - pygpu
+  - libgpuarray
+  - conda-forge TheanoLM
